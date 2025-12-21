@@ -240,7 +240,9 @@ This project is created for educational purposes.
 
 ## 👤 Author
 
-Semester 3 DSA Project
+1: Mohsin Saeed
+2: Ahmad Sajid
+3: Muhammad Taha
 
 ## 🙏 Acknowledgments
 
